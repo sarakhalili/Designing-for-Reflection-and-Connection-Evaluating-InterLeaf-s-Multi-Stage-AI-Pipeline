@@ -118,5 +118,3 @@ The authors declare no competing interests.
 ## Citation
 
 If you use this code, please cite the InterLeaf paper and the original RRCP dataset paper.
-
-A formal citation for the InterLeaf paper can be added here after publication.
